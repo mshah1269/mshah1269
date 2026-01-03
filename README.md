@@ -1,6 +1,6 @@
 # Hey there 👋 !! 
 
-I’m **Manan Shah**, a dedicated **Software Engineer** with over **4 years of backend development experience**.  
+I’m **Manan Shah**, a dedicated **Senior Software Engineer** with over **4 years of backend development experience**.  
 Driven by a passion for impactful solutions, I specialize in designing and developing scalable services using **Python**, with strong expertise in **SDLC** and **Agile methodologies**.
 
 I thrive in challenging environments that test my **problem-solving** and **analytical skills** — whether automating processes to enhance efficiency or developing innovative solutions, I always keep the **business impact** in focus.
